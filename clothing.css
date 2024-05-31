@@ -1,0 +1,12 @@
+.font {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.align {
+    text-align: center;
+}
+
+.light {
+    align-items: center;
+}
